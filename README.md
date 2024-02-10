@@ -36,7 +36,7 @@
 
 ## Desafio 2 -->
 
-### Por isso, hoje, eu vou te ensinar a desenvolver um programa simulando um desses sites. Ele deve pedir para o usuário responder 3 perguntas:
+### Ele deve pedir para o usuário responder 3 perguntas:
 
 - Qual o seu nome?
 - Quantos anos você tem?
