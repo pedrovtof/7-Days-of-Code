@@ -29,4 +29,6 @@ if (COMPARAR O numeroDez e a stringDez) {
   console.log('As variáveis numeroDez e stringDez não tem o mesmo valor')
 }"
 
+![image](https://github.com/pedrovtof/7-Days-of-Code/assets/89746470/4974b219-2697-4a92-9bb2-b681b87da8e0)
+
 
