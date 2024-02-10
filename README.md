@@ -46,7 +46,8 @@
 
 No final, o sistema vai exibir a mensagem:
 
-  "Olá [nome], você tem [idade] anos e já está aprendendo [linguagem]!"
+ - "Olá [nome], você tem [idade] anos e já está aprendendo [linguagem]!"
 
-###Resposta
+### Resposta
+
 
