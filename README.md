@@ -62,4 +62,7 @@ E aí, dependendo da resposta, ele deve mostrar uma das seguintes mensagens:
 
 ### Resposta
 
+![image](https://github.com/pedrovtof/7-Days-of-Code/assets/89746470/384819ad-64a4-4224-b7d6-b30b4577f9d6)
+
+
 
