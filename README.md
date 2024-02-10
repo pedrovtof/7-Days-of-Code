@@ -1,8 +1,8 @@
-#Desafio de Alura junto Rafa Ballerini.
+# Desafio de Alura junto Rafa Ballerini.
 
-##Desafio 1 -->
+## Desafio 1 -->
 
-###A sua tarefa de hoje é reescrever o código abaixo de maneira que ele imprima as informações de maneira correta, que faça sentido e sem erros:
+### A sua tarefa de hoje é reescrever o código abaixo de maneira que ele imprima as informações de maneira correta, que faça sentido e sem erros:
   
   let numeroUm = 1
   let stringUm = '1'
@@ -29,14 +29,14 @@
     console.log('As variáveis numeroDez e stringDez não tem o mesmo valor')
   }
 
-###Resposta
+### Resposta
 
 ![image](https://github.com/pedrovtof/7-Days-of-Code/assets/89746470/4974b219-2697-4a92-9bb2-b681b87da8e0)
 
 
-##Desafio 2 -->
+## Desafio 2 -->
 
-###Por isso, hoje, eu vou te ensinar a desenvolver um programa simulando um desses sites. Ele deve pedir para o usuário responder 3 perguntas:
+### Por isso, hoje, eu vou te ensinar a desenvolver um programa simulando um desses sites. Ele deve pedir para o usuário responder 3 perguntas:
 
 - Qual o seu nome?
 - Quantos anos você tem?
