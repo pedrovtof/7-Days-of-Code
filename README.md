@@ -136,3 +136,10 @@ Lista de compras:
   Congelados:
   Doces: chiclete e bala de ursinho
 ```
+### Resposta
+
+![image](https://github.com/pedrovtof/7-Days-of-Code/assets/89746470/fba2c96f-ff77-49a2-8695-27a9c852c07b)
+
+![image](https://github.com/pedrovtof/7-Days-of-Code/assets/89746470/8d1c0a42-247b-44d2-b113-5d514c5f2446)
+
+
