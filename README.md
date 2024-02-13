@@ -87,4 +87,12 @@ Além disso, também é essencial que, ao final do jogo, ela possa inserir quant
 
 ### Resposta
 
+![image](https://github.com/pedrovtof/7-Days-of-Code/assets/89746470/51bdbc00-2967-4a27-8703-9be327fb8931)
+
+![image](https://github.com/pedrovtof/7-Days-of-Code/assets/89746470/05adf372-aae9-4cd4-8b3b-cd07faae5db1)
+
+![image](https://github.com/pedrovtof/7-Days-of-Code/assets/89746470/d333faa4-0b5f-488e-ad89-7c7d55ac3f11)
+
+
+
 
