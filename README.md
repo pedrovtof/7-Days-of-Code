@@ -109,5 +109,7 @@ Depois que o programinha estiver funcionando, tente usar um número randômico e
 
 ! Usando Node.js !
 
+Bibliotecas readline e math
+
 ![image](https://github.com/pedrovtof/7-Days-of-Code/assets/89746470/354b50f8-0f3c-41bf-9102-7053ebf1b4c7)
 
