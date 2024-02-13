@@ -106,3 +106,8 @@ No fim, caso você não acerte nenhuma vez, ele vai imprimir qual era o número 
 Depois que o programinha estiver funcionando, tente usar um número randômico em vez de um número pré-definido.
 
 ### Resposta
+
+! Usando Node.js !
+
+![image](https://github.com/pedrovtof/7-Days-of-Code/assets/89746470/354b50f8-0f3c-41bf-9102-7053ebf1b4c7)
+
