@@ -143,3 +143,42 @@ Lista de compras:
 ![image](https://github.com/pedrovtof/7-Days-of-Code/assets/89746470/8d1c0a42-247b-44d2-b113-5d514c5f2446)
 
 
+## Desafio 6 -->
+
+### Você deverá criar a opção de remover algum item da lista, que será exibida junto à pergunta de “você deseja adicionar uma comida na lista de compras”?
+
+A partir daí, caso a pessoa escolha essa opção, o programa irá imprimir os elementos presentes na lista atual, e a pessoa deverá escrever qual deles deseja remover.
+
+Depois disso, o programa irá remover o elemento da lista e imprimir a confirmação de que o item realmente não está mais lá.
+
+Por fim, ele voltará para o ciclo inicial de perguntas.
+
+Se, na hora de deletar o item, o mesmo não for encontrado na lista, você deverá exibir uma mensagem avisando isso.
+
+Por exemplo: “Não foi possível encontrar o item dentro da lista!”
+
+Lembre-se que a opção de remover um item só deverá estar disponível a partir do momento que existir ao menos um elemento dentro da lista de compras.
+
+### Resposta
+
+![image](https://github.com/pedrovtof/7-Days-of-Code/assets/89746470/aae1efa3-3c7d-4dd6-bdee-910bcca21ad6)
+
+![image](https://github.com/pedrovtof/7-Days-of-Code/assets/89746470/c10e067e-d1c9-411f-8101-65c560b03683)
+
+![image](https://github.com/pedrovtof/7-Days-of-Code/assets/89746470/8e163e98-32ba-4ca6-b71f-02a18d3f0d71)
+
+
+## Desafio 7 -->
+
+### Para o exercício de hoje: você já parou para pensar como uma calculadora funciona?
+
+Ela pede para você digitar um número, depois você seleciona um tipo de operação, um outro número, e ela faz sozinha o cálculo para te mostrar o resultado! Incrível, né?
+
+Neste último desafio, a minha proposta para você é: crie a sua própria calculadora, porém com um detalhe muito importante: cada operação deverá ser uma função diferente no seu código.
+
+Primeiramente, a pessoa deverá escolher uma opção de operação impressa pelo programa na tela.
+
+Depois, ela deverá inserir os dois valores que deseja utilizar, e o programa imprimirá o resultado da operação em questão.
+
+As opções disponíveis deverão ser: soma, subtração, multiplicação, divisão, e sair. Nessa última, o programa deverá parar de ser executado, mostrando uma mensagem "Até a próxima".
+
