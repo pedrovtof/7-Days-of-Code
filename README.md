@@ -182,3 +182,7 @@ Depois, ela deverá inserir os dois valores que deseja utilizar, e o programa im
 
 As opções disponíveis deverão ser: soma, subtração, multiplicação, divisão, e sair. Nessa última, o programa deverá parar de ser executado, mostrando uma mensagem "Até a próxima".
 
+## Resposta
+
+![image](https://github.com/pedrovtof/7-Days-of-Code/assets/89746470/033cfc7d-d3ba-4acc-ad74-e3e535c4575b)
+
